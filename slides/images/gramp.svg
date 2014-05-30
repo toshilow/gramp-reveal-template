@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="494" height="157" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#151533" id="canvas_background" height="159" width="496" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#ffffff" transform="matrix(4.678015831513221,0,0,4.91643779228707,-163.8757244616147,-449.0114239922608) " xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="115.346795" x="43.595461" stroke-width="0" fill="#ffffff">GRAMP</text>
+ </g>
+</svg>
